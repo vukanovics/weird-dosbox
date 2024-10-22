@@ -1,4 +1,5 @@
 # Weird Dosbox behavior
+Note: this can only be reproduced with the dynamic core.
 Floats seem to compare both greater-than and lesser-than:
 ![Screenshot displaying the result of running the code in main.c alongside the code itself](doc/weird.png)
 
